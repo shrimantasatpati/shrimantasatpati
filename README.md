@@ -163,4 +163,58 @@
 
 <hr/>
 
+### Hi there 👋
 
+<!--
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+<a href="https://twitter.com/rahulsinha036">
+<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rahulsinha036/">
+<img align="left" alt="rahul sinha LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCcKTmc5Msymb45c7GYUlitQ?view_as=subscriber">
+<img align="left" alt="rahul sinha Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://medium.com/@rahulsinha036">
+<img align="left" alt="rahul sinha medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+<br >
+<br />
+
+**My Intro ..**
+
+Hello visitors, I'm Shrimanta Satpati. 🚀 I am from Wset Bengal. Currently pursuing M.Sc. Big Data Analytics from 🏫 St. Joseph's University, Bangalore. Tech enthusiasts and my keen interest are Data Science, Voice Technology like Alexa and Google Assistant, and Python. 
+
+**🌱 I'm currently learning ...**
+- 🎇 Python with module and packages
+- 🎇 Tableau and Excel
+- 🎇 Git and GitHub
+
+**🕹 I am working with ...** 
+
+- [GitHub Alexa Repo](https://github.com/alexadevslpu)
+
+**Languages and Tools ...**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+- 📫 How to reach me:rahulsinharaja456@gmail.com
+
+![Shrimanta Satpati Github Stats](https://github-readme-stats.vercel.app/api?username=rahulsinha036&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
