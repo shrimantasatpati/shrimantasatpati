@@ -215,6 +215,6 @@ Hello visitors, I'm Shrimanta Satpati. 🚀 I am from Wset Bengal. Currently pur
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- 📫 How to reach me:rahulsinharaja456@gmail.com
+- 📫 How to reach me:satpatishrimanta@gmail.com
 
-![Shrimanta Satpati Github Stats](https://github-readme-stats.vercel.app/api?username=rahulsinha036&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Shrimanta Satpati Github Stats](https://github-readme-stats.vercel.app/api?username=shrimantasatpati&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
