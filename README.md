@@ -1,202 +1,221 @@
-<h1 align="center">Hi , I am Shrimanta Satpati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Shrimanta Satpati
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shrimantasatpati&label=Profile%20views&color=0e75b6&style=plastic" alt="shrimantasatpati" /> </p>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
-
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=60&lines=Data+Scientist+%7C+AI+%2F+ML+Engineer;GenAI+%7C+LLM+%7C+Agentic+AI+Builder;Multi-Agent+Systems+%7C+RAG+%7C+LLMOps;3%C3%97+KPMG+Award+Winner+%F0%9F%8F%86;Published+Researcher+%7C+Springer-Nature+%7C+IET" alt="Typing SVG" />
   </a>
 </p>
 
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
+<p align="center">
+  <a href="https://shrimanta-satpati.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shrimanta-satpati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@satpatishrimanta"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://hashnode.com/@shrimantasatpati"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://huggingface.co/shrimantasatpati"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="mailto:satpatishrimanta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
- </p>
-  
-### 👉Graphic Designing
-<p align="left">
-  &emsp;
-    <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrimantasatpati&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
- ### 👉 Software & Tools
- 
+---
+
+## 🚀 About Me
+
+```python
+shrimanta = {
+    "role"        : "Consultant | Data Scientist / AI Engineer | GenAI Lead @ KPMG India",
+    "location"    : "Kolkata / Bangalore, India",
+    "expertise"   : ["GenAI Platforms", "LLM Pipelines", "Multi-Agent Systems",
+                     "RAG", "Prompt Engineering", "MLOps / LLMOps"],
+    "cloud"       : ["Azure OpenAI", "AWS Bedrock", "GCP Vertex AI"],
+    "awards"      : "3x KPMG Award Winner 🏆 (Super Team + Super Employee KI)",
+    "research"    : ["Springer-Nature", "IET Digital Library"],
+    "experience"  : "3+ years in production AI/ML",
+    "currently"   : "Building multi-agent agentic workflows with LangGraph",
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / GenAI / ML
 <p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-<br/>
+**Specialisations:** `Prompt Engineering` · `RAG` · `Multi-Agent Systems` · `Fine-tuning (LoRA / DreamBooth)` · `Agentic AI` · `LLMOps` · `Model Evaluation` · `Embedding Models` · `Vector Databases` · `NLP` · `Time Series Forecasting`
 
-## 📊 Github Stats (Expand to View) 
+### ☁️ Cloud & MLOps
+<p>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AzureDevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+</p>
 
+**Services:** `Azure AI Search` · `AWS Bedrock` · `SageMaker` · `Vertex AI` · `Azure OpenAI` · `AWS Lambda` · `Step Functions` · `CI/CD` · `MLOps`
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shrimanta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrimantasatpati&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/>
+</p>
 
+### 📊 Data & Visualisation
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/shrimantasatpati"><img alt="Shrimanta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+---
 
-</details>
+## 💼 Experience Highlights
 
-<br/>
+### 🏢 KPMG India | Digital Lighthouse *(Jan 2024 – Present)*
+> **Consultant | Data Scientist / AI Engineer | GenAI Lead** · Bangalore
 
-## 🙋‍♀️ Let's Connect
+- 🌐 Led a **Cloud-Agnostic GenAI Platform** with multilingual code generation, multi-agent IT incident ticketing, MoM generation & RESTful APIs (FastAPI)
+- 📄 **Multimodal RAG** – DocQuest: Azure AI Search vector DB, <5s latency, 250MB+ uploads · **98% grounded QA** · **99%+ correctness** in doc comparison · **98% prediction accuracy** in BRD/SoW cost estimation
+- 🎬 AI video/music generation app with prompt-engineering-based image editing, AI avatar TTS, multilingual captions & prompt-injection guardrails
+- 🔊 **Audio analytics MLOps pipeline** on AWS (S3, Lambda, SageMaker, Bedrock, Step Functions) — cut costs by **30%**
+- 📈 **Text-to-forecasting pipeline**: NL → SQL → time series · RAG scraper at **96%+ retrieval accuracy** · Led 4-person team on AI news bot (10+ sources)
+- ⚙️ CI/CD testing framework · Docker test runner · PySpark Data Curation Accelerator · Integrated **Llama-3 & Mixtral** · 6 enterprise RFPs (automotive, banking)
+
+> **Consultant Trainee** *(Jan 2023 – May 2023)* · Hierarchical TS forecasting (XGBoost, LightGBM, Random Forests) · Univariate MAPE **1.98%** · Multivariate MAPE **3.97%** · Live Streamlit KPI dashboard
+
+### 🏛️ VisioNxt | Ministry of Textiles, Govt. of India x NIFT *(Jun – Sep 2023)*
+> **AI Intern** · Chennai
+
+- Fine-tuned **SDXL 1.0** (DreamBooth/LoRA) & Stable Diffusion 2 on Indian ethnic art via **Hugging Face Diffusers**
+- Built **VisioNxt Prompter** (GPT-2/DistilGPT Gradio) with advanced prompt engineering · **Published: [ICCVIoT 2024, IET Digital Library](https://digital-library.theiet.org/doi/pdf/10.1049/icp.2024.4430?download=true)**
+
+### 🇬🇧 Dabler.co.uk *(Jul – Aug 2023)*
+> **ML Engineer Intern (Remote)** · United Kingdom
+
+- Built **LangChain + FastAPI** multi-document QA chatbot (Azure OpenAI + Chroma vector database, embedding models) · deployed on Streamlit Cloud
+
+---
+
+## 🏆 Achievements & Awards
+
+| 🏅 Award / Recognition | Details |
+|---|---|
+| 🥇 **3x KPMG Award Winner** | Super Team Award + Super Employee KI Award |
+| 🎓 **IBM Quantum – $2,500 Scholarship** | The Coding School |
+| 🏆 **BuddyforStudy TOP 50 / 5,000** | L'Oréal India |
+| 🔬 **DST-JBNSTS Inspire Scholar** | Govt. of India |
+| 🤖 **Amazon ML Summer School 2023** | Selected participant |
+| ♟️ **University Chess Champion** | Rank 1/98, SJU |
+| 📋 **Secretary** | SigmaSquared Association BDA |
+
+---
+
+## 📚 Publications
+
+| Paper | Venue | Highlight |
+|---|---|---|
+| [YOLOv7 Flood Recovery](https://link.springer.com/chapter/10.1007/978-3-031-74813-4_12) | **Springer-Nature** | mAP@0.50: **99.5%** |
+| [Generative Fashion AI](https://digital-library.theiet.org/doi/pdf/10.1049/icp.2024.4430?download=true) | **ICCVIoT 2024, IET** | Fine-tuned SDXL on ethnic art |
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Score |
+|---|---|---|
+| M.Sc. Big Data Analytics | St. Joseph's University, Bangalore (2021–2023) | CGPA 8.5/10 · **Rank 5/59** |
+| B.Sc. (Hons) Economics | University of Calcutta – Vivekananda College (2017–2020) | CGPA 8.1/10 · **Rank 3/50** |
+
+---
+
+## 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Azure%20AI%20Engineer%20Associate-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DataBricks%20AI%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP%20Gemini%20Enterprise-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alteryx%20Core%20%26%20Advanced-0078C0?style=for-the-badge&logo=alteryx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20ML%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPTEL%20ELITE-003366?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+## 🌍 Research & Global Engagements
+
+- 🎓 **Teacher's College, Columbia University**
+- 🏛️ **TTCSP, University of Pennsylvania**
+- 🇩🇪 **DS3 Summer School 2022** – CIVICA & Hertie School, Berlin, Germany
+- 🇮🇳 **IIT Bombay** Data Science Workshop
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a 6yeEJKvNRXWoMJSbWe4Gnmck43zLGXLBRCdE6xsD9tZ4 src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
+  <img src="https://github-readme-stats.vercel.app/api?username=shrimantasatpati&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimantasatpati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrimantasatpati&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
 
-### Hi there 👋
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shrimantasatpati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+</p>
 
-<!--
+---
 
+## 🐍 Contribution Snake
 
-Here are some ideas to get you started:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrimantasatpati/shrimantasatpati/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrimantasatpati/shrimantasatpati/output/github-snake.svg"/>
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/shrimantasatpati/shrimantasatpati/output/github-snake.svg"/>
+  </picture>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🤝 Let's Connect
 
-<a href="https://twitter.com/rahulsinha036">
-<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rahulsinha036/">
-<img align="left" alt="rahul sinha LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCcKTmc5Msymb45c7GYUlitQ?view_as=subscriber">
-<img align="left" alt="rahul sinha Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://medium.com/@rahulsinha036">
-<img align="left" alt="rahul sinha medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+<p align="center">
+  <a href="https://shrimanta-satpati.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shrimanta-satpati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@satpatishrimanta"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://hashnode.com/@shrimantasatpati"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://huggingface.co/shrimantasatpati"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="mailto:satpatishrimanta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/shrimantasatpati"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-<br >
-<br />
-
-**My Intro ..**
-
-Hello visitors, I'm Shrimanta Satpati. 🚀 I am from Wset Bengal. Currently pursuing M.Sc. Big Data Analytics from 🏫 St. Joseph's University, Bangalore. Tech enthusiasts and my keen interest are Data Science, Voice Technology like Alexa and Google Assistant, and Python. 
-
-**🌱 I'm currently learning ...**
-- 🎇 Python with module and packages
-- 🎇 Tableau and Excel
-- 🎇 Git and GitHub
-
-**🕹 I am working with ...** 
-
-- [GitHub Alexa Repo](https://github.com/alexadevslpu)
-
-**Languages and Tools ...**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-- 📫 How to reach me:satpatishrimanta@gmail.com
-
-![Shrimanta Satpati Github Stats](https://github-readme-stats.vercel.app/api?username=shrimantasatpati&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="center">
+  <i>"Building intelligent systems that bridge research and production — one agent at a time."</i>
+</p>
