@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=60&lines=Data+Scientist+%7C+AI+%2F+ML+Engineer;GenAI+%7C+LLM+%7C+Agentic+AI+Builder;Multi-Agent+Systems+%7C+RAG+%7C+LLMOps;3%C3%97+KPMG+Award+Winner+%F0%9F%8F%86;Published+Researcher+%7C+Springer-Nature+%7C+IET" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=60&lines=Data+Scientist+%7C+AI+%2F+ML+Engineer;GenAI+%7C+LLM+%7C+Agentic+AI+Builder;Multi-Agent+Systems+%7C+RAG+%7C+LLMOps;Published+Researcher+%7C+Springer-Nature+%7C+IET;3%2B+Years+in+Production+AI+%2F+ML" alt="Typing SVG" />
   </a>
 </p>
 
@@ -93,33 +93,6 @@ shrimanta = {
 
 ---
 
-## 💼 Experience Highlights
-
-### 🏢 KPMG India | Digital Lighthouse *(Jan 2024 – Present)*
-> **Consultant | Data Scientist / AI Engineer | GenAI Lead** · Bangalore
-
-- 🌐 Led a **Cloud-Agnostic GenAI Platform** with multilingual code generation, multi-agent IT incident ticketing, MoM generation & RESTful APIs (FastAPI)
-- 📄 **Multimodal RAG** – DocQuest: Azure AI Search vector DB, <5s latency, 250MB+ uploads · **98% grounded QA** · **99%+ correctness** in doc comparison · **98% prediction accuracy** in BRD/SoW cost estimation
-- 🎬 AI video/music generation app with prompt-engineering-based image editing, AI avatar TTS, multilingual captions & prompt-injection guardrails
-- 🔊 **Audio analytics MLOps pipeline** on AWS (S3, Lambda, SageMaker, Bedrock, Step Functions) — cut costs by **30%**
-- 📈 **Text-to-forecasting pipeline**: NL → SQL → time series · RAG scraper at **96%+ retrieval accuracy** · Led 4-person team on AI news bot (10+ sources)
-- ⚙️ CI/CD testing framework · Docker test runner · PySpark Data Curation Accelerator · Integrated **Llama-3 & Mixtral** · 6 enterprise RFPs (automotive, banking)
-
-> **Consultant Trainee** *(Jan 2023 – May 2023)* · Hierarchical TS forecasting (XGBoost, LightGBM, Random Forests) · Univariate MAPE **1.98%** · Multivariate MAPE **3.97%** · Live Streamlit KPI dashboard
-
-### 🏛️ VisioNxt | Ministry of Textiles, Govt. of India x NIFT *(Jun – Sep 2023)*
-> **AI Intern** · Chennai
-
-- Fine-tuned **SDXL 1.0** (DreamBooth/LoRA) & Stable Diffusion 2 on Indian ethnic art via **Hugging Face Diffusers**
-- Built **VisioNxt Prompter** (GPT-2/DistilGPT Gradio) with advanced prompt engineering · **Published: [ICCVIoT 2024, IET Digital Library](https://digital-library.theiet.org/doi/pdf/10.1049/icp.2024.4430?download=true)**
-
-### 🇬🇧 Dabler.co.uk *(Jul – Aug 2023)*
-> **ML Engineer Intern (Remote)** · United Kingdom
-
-- Built **LangChain + FastAPI** multi-document QA chatbot (Azure OpenAI + Chroma vector database, embedding models) · deployed on Streamlit Cloud
-
----
-
 ## 🏆 Achievements & Awards
 
 | 🏅 Award / Recognition | Details |
@@ -175,15 +148,27 @@ shrimanta = {
 
 ---
 
+## ⭐ Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/shrimantasatpati/shrimantasatpati">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrimantasatpati&repo=shrimantasatpati&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+> 💡 **Note:** Pin your top repositories via **GitHub Profile → Customize your pins** to have them automatically appear here with live stats cards.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrimantasatpati&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shrimantasatpati&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimantasatpati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrimantasatpati&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=shrimantasatpati&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
 <p align="center">
